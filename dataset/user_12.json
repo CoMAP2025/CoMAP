@@ -1,0 +1,1264 @@
+{
+  "user": {
+    "id": 16,
+    "user_id": "a7a98228-4221-48b3-a86d-2224dfd40cd4",
+    "created_at": "2025-08-22T11:14:00.132988"
+  },
+  "chat_sessions": [
+    {
+      "session_id": "9bfd60fd-20f2-42bf-be4b-1902c086228c",
+      "created_at": "2025-08-22T11:15:11.132234"
+    }
+  ],
+  "chat_messages": [
+    {
+      "session_id": "9bfd60fd-20f2-42bf-be4b-1902c086228c",
+      "role": "user",
+      "content": "以一味一世界：探索外来食物传播史为主题项目式学习帮我做一个说课设计",
+      "created_at": "2025-08-22T11:53:38.132554"
+    },
+    {
+      "session_id": "9bfd60fd-20f2-42bf-be4b-1902c086228c",
+      "role": "assistant",
+      "content": "很棒的主题！🌏🍅 以“外来食物传播史”为切入点设计项目式学习，不仅能帮助学生了解全球化背景下的食物流动，还能提升跨学科综合素养和探究能力。您的说课设计需要先明确项目的目标、学习策略和具体活动安排。我们可以逐步推进，首先分析目标学生群体特点，为后续环节打下基础。\n\n接下来，建议您进一步细化学习者背景，比如年级、已有知识基础、兴趣点等，从而更好地制定教学目标和活动内容。您可以选择补充学习者信息，或者直接进入项目目标设定、教学策略选择等环节。\n\n下面是您可选择的下一步操作：\n\n```json\n{\n  \"actions\": [\n    {\n      \"option\": \"modify\",\n      \"card_id\": \"21a59605-858b-4e73-a455-d9aa9764fa17\",\n      \"type\": \"学习者\",\n      \"title\": \"学习者特征卡片\",\n      \"description\": \"请补充目标学生的年级（如初中二年级）、已有相关知识基础（如对中国传统食物的了解）、兴趣点（如喜欢美食、喜欢历史探究）、学习风格（如喜欢合作、喜欢动手实践）等详细信息。\"\n    },\n    {\n      \"option\": \"add\",\n      \"type\": \"目标\",\n      \"title\": \"知识与技能目标：了解主要外来食物的传播路径及历史影响\",\n      \"description\": \"学生能够说出土豆、玉米、辣椒、番茄、花生等外来食物的原产地、传入中国的时间路径，以及它们对中国农业和饮食文化的影响。\"\n    },\n    {\n      \"option\": \"add\",\n      \"type\": \"目标\",\n      \"title\": \"过程与方法目标：培养信息检索与资料整理能力\",\n      \"description\": \"学生能够通过查找资料、文献和网络资源，梳理外来食物传播的历史脉络，用思维导图、时间线等方式进行整理和展示。\"\n    },\n    {\n      \"option\": \"add\",\n      \"type\": \"目标\",\n      \"title\": \"情感态度与价值观目标：体会文化交流与全球化的意义\",\n      \"description\": \"学生能够认识到外来食物丰富了中国饮食文化，理解全球化对日常生活的深远影响，培养开放包容的文化态度。\"\n    }\n  ]\n}\n```\n\n请问您想先完善学习者信息，还是直接设定教学目标？或者有其他想法？欢迎选择，也可以补充说明您的需求！",
+      "created_at": "2025-08-22T11:53:38.132591"
+    },
+    {
+      "session_id": "9bfd60fd-20f2-42bf-be4b-1902c086228c",
+      "role": "user",
+      "content": "教学内容提示： 讲解会产生人口老龄化现象的原因，引导学生设计一次调查（明确调查对象、目标、设计问卷、分析数据等），可视化技术，分析不同地区产生不同老龄化程度的原因，考虑开展一次关爱老人的社区活动或者相关主题班会",
+      "created_at": "2025-08-22T12:00:10.161400"
+    },
+    {
+      "session_id": "9bfd60fd-20f2-42bf-be4b-1902c086228c",
+      "role": "assistant",
+      "content": "您的教学内容设计非常全面👍，既关注知识讲解，也注重探究和实践，非常适合项目式学习的理念！结合您的提示，我们可以继续完善教学目标、活动设计和策略，让说课方案更具体、可操作。\n\n首先，建议补充/调整项目目标，让目标更贴近“人口老龄化”与“探究实践”两方面。然后，我们可以分步设计活动，包括原因讲解、调查设计与实施、数据可视化、区域比较分析和社区实践等环节。\n\n以下是针对您的内容，建议的目标与活动方向，您可以选择需要补充或继续推进的部分👇\n\n```json\n{\n  \"actions\": [\n    {\n      \"option\": \"add\",\n      \"type\": \"目标\",\n      \"title\": \"知识与技能目标：理解中国人口老龄化的主要原因\",\n      \"description\": \"学生能够列举并解释中国人口老龄化的成因，包括计划生育政策、婴儿潮、预期寿命延长、生育意愿降低等，并能描述其社会影响。\"\n    },\n    {\n      \"option\": \"add\",\n      \"type\": \"目标\",\n      \"title\": \"过程与方法目标：掌握社会调查与数据分析技能\",\n      \"description\": \"学生能够自主设计调查问卷，选择合适的调查对象与方法，收集、整理数据，并运用可视化技术（如柱状图、饼图、热力图等）展示结果，分析不同地区老龄化程度差异。\"\n    },\n    {\n      \"option\": \"add\",\n      \"type\": \"目标\",\n      \"title\": \"情感态度与价值观目标：增强关爱老年群体的社会责任感\",\n      \"description\": \"通过参与社区调研或班会活动，学生能够体会老龄化社会带来的挑战，增强对老年群体的理解与关爱，形成积极的社会责任感。\"\n    }\n  ]\n}\n```\n\n此外，基于您的活动设想，推荐如下活动模块，您可以任选一个深入设计：\n\n```json\n{\n  \"actions\": [\n    {\n      \"option\": \"add\",\n      \"type\": \"活动\",\n      \"title\": \"活动一：讲解与研讨——人口老龄化现象与成因分析（1课时）\",\n      \"description\": \"教师通过图片、数据等多种形式讲解人口老龄化的现象和成因，组织学生分组讨论，归纳总结导致中国人口老龄化的主要社会、经济、文化因素；引导学生联系现实生活，讨论身边的老龄化现象。\"\n    },\n    {\n      \"option\": \"add\",\n      \"type\": \"活动\",\n      \"title\": \"活动二：设计与实施社会调查（2课时+课外调研）\",\n      \"description\": \"学生分组确定调查主题（如本地社区老龄化情况、老人生活状况等），明确调查对象与目标，自主设计调查问卷。指导学生实际开展问卷调查，并收集数据，为后续分析和展示做准备。\"\n    },\n    {\n      \"option\": \"add\",\n      \"type\": \"活动\",\n      \"title\": \"活动三：数据可视化与区域对比分析（1课时）\",\n      \"description\": \"学生利用收集到的数据，借助Excel、Datawrapper、腾讯课堂等工具，将调查结果进行可视化处理。小组展示分析结果，比较不同地区老龄化现象的异同，并提出原因假设。\"\n    },\n    {\n      \"option\": \"add\",\n      \"type\": \"活动\",\n      \"title\": \"活动四：关爱老人社区实践/主题班会（1课时+课外实践）\",\n      \"description\": \"学生策划并参与一次关爱老人的社区活动（如慰问、义演、知识讲座等），或组织一次以“老龄化与我们的责任”为主题的班会，分享调研心得，讨论青少年如何参与老龄化社会的应对。\"\n    }\n  ]\n}\n```\n\n总结：上述目标与活动可以灵活组合，覆盖知识、技能、情感三大领域。接下来，您可以选择：\n- 细化教学目标（如需要修改补充）；\n- 深入设计某个具体活动；\n- 选择合适的教学策略（如项目式、合作探究等）；\n- 或者开始补充具体的学习资源。\n\n请告诉我您的优先方向，我会继续分步协助您完善说课设计！",
+      "created_at": "2025-08-22T12:00:10.161446"
+    },
+    {
+      "session_id": "9bfd60fd-20f2-42bf-be4b-1902c086228c",
+      "role": "user",
+      "content": "根据以上的内容做一个详细的说课设计",
+      "created_at": "2025-08-22T12:01:54.806915"
+    },
+    {
+      "session_id": "9bfd60fd-20f2-42bf-be4b-1902c086228c",
+      "role": "assistant",
+      "content": "非常感谢您的详细补充和明确需求！👏结合“外来食物传播史”与“人口老龄化”两个主题，您的教学内容兼具知识性、探究性与社会实践性，非常适合项目式学习。下面我会分模块，逐步为您搭建详细的说课设计框架，每一步都明确设计意图和内容，方便您后续灵活调整或拓展。\n\n首先，我们先梳理学习者特征与教学目标，让教学设计“有的放矢”。\n\n---\n【第一步：学习者分析】\n建议明确学生的年级、知识基础、兴趣与学习风格，以便制定更贴合实际的活动与目标。\n\n```json\n{\n  \"actions\": [\n    {\n      \"option\": \"add\",\n      \"type\": \"学习者\",\n      \"title\": \"初中二年级学生学习者画像\",\n      \"description\": \"本项目面向初中二年级学生。学生具备基本的历史、地理和科学常识，对中国传统食物和社会现象有初步了解。多数学生对美食、社会热点新闻和身边生活问题有兴趣，喜欢团队合作与实际探究活动，信息检索与数据处理能力有待提升。\"\n    }\n  ]\n}\n```\n\n---\n【第二步：教学目标设定】\n根据您的教学内容，将目标细化为知识与技能、过程与方法、情感态度与价值观三类，确保可测量、可落实。\n\n```json\n{\n  \"actions\": [\n    {\n      \"option\": \"add\",\n      \"type\": \"目标\",\n      \"title\": \"知识与技能目标：掌握中国人口老龄化的原因及外来食物传播史\",\n      \"description\": \"学生能够准确说出中国人口老龄化的主要原因（计划生育、婴儿潮、寿命延长、生育意愿下降等），并能讲述土豆、玉米、辣椒、番茄、花生等外来食物的原产地、传入路径及其对中国社会的影响。\"\n    },\n    {\n      \"option\": \"add\",\n      \"type\": \"目标\",\n      \"title\": \"过程与方法目标：提升社会调查与数据可视化能力\",\n      \"description\": \"学生能自主设计调查问卷，明确调查对象与目标，使用可视化工具整理分析数据，比较不同地区的人口老龄化现象，并运用信息检索与整理方法梳理外来食物传播史。\"\n    },\n    {\n      \"option\": \"add\",\n      \"type\": \"目标\",\n      \"title\": \"情感态度与价值观目标：增强文化认同与社会责任感\",\n      \"description\": \"学生通过调研与社区实践，体会外来文化交流的积极意义，增强对老龄化社会的理解与关爱，培养开放包容、积极参与社会事务的态度。\"\n    }\n  ]\n}\n```\n\n---\n【第三步：教学策略选择】\n推荐采用项目式学习（PBL）为主，融合合作探究和实际体验，激发学生主动参与和深层思考。\n\n```json\n{\n  \"actions\": [\n    {\n      \"option\": \"add\",\n      \"type\": \"策略\",\n      \"title\": \"教学策略：项目式学习结合合作探究\",\n      \"description\": \"以真实问题为导向，学生分组围绕“人口老龄化”“外来食物传播史”展开主题探究与社会实践。教师提供阶段性指导，鼓励学生自主分工、合作完成调查、数据分析与成果展示，促进跨学科应用与创新思维培养。\"\n    }\n  ]\n}\n```\n\n---\n【第四步：教学活动设计】\n结合目标和策略，将项目过程拆解为4个核心活动，每步明确活动目标、流程与产出。\n\n```json\n{\n  \"actions\": [\n    {\n      \"option\": \"add\",\n      \"type\": \"活动\",\n      \"title\": \"活动一：讲解与研讨——人口老龄化与外来食物传播（1课时）\",\n      \"description\": \"教师用图片、数据、故事等手段，系统讲解中国人口老龄化现象、成因及其社会影响，并介绍外来食物的传播路径与历史意义。组织小组讨论：人口老龄化对家庭与社会的影响、哪些食物原本不是中国本土。\"\n    },\n    {\n      \"option\": \"add\",\n      \"type\": \"活动\",\n      \"title\": \"活动二：社会调查设计与实施（2课时+课外）\",\n      \"description\": \"学生分组确定调查主题（如本地老人生活、食物认知等），明确调查对象（社区老人、家长等）、设计问卷（含原因分析、生活习惯等），实地或线上开展问卷调查，收集数据，为后续分析做准备。\"\n    },\n    {\n      \"option\": \"add\",\n      \"type\": \"活动\",\n      \"title\": \"活动三：数据可视化与对比分析（1课时）\",\n      \"description\": \"学生利用Excel等工具，将调查数据制成柱状图、饼图等，进行区域、年龄、性别等维度的可视化分析。各组展示结果，讨论不同地区老龄化差异及外来食物接受度的影响因素。\"\n    },\n    {\n      \"option\": \"add\",\n      \"type\": \"活动\",\n      \"title\": \"活动四：关爱老人社区活动/主题班会（1课时+课外）\",\n      \"description\": \"策划参与一次社区关爱老人活动（如慰问、才艺表演、健康讲座等）或举办以“外来食物与老年饮食”为主题的班会，分享调研心得，讨论青少年如何支持老龄化社会和文化交流。\"\n    }\n  ]\n}\n```\n\n---\n【第五步：资源推荐】\n针对每个活动，精准推荐书籍、网站、可视化工具等具体资源，便于学生和教师查阅使用。\n\n```json\n{\n  \"actions\": [\n    {\n      \"option\": \"add\",\n      \"type\": \"资源\",\n      \"title\": \"课堂讲解资源包\",\n      \"description\": \"《中国人口老龄化发展趋势研究》（中国人口出版社）；“国家人口与健康科学数据中心”网站：https://www.cpop.cn/；外来食物传播相关纪录片《舌尖上的中国》第三季“外来物语”单集。\"\n    },\n    {\n      \"option\": \"add\",\n      \"type\": \"资源\",\n      \"title\": \"数据可视化与调查工具\",\n      \"description\": \"Excel/Google表格；Datawrapper（https://www.datawrapper.de/）；腾讯问卷（https://wj.qq.com/）；思维导图工具XMind（https://www.xmind.cn/）。\"\n    }\n  ]\n}\n```\n\n---\n【第六步：评价方式设计】\n设置过程性与终结性评价，鼓励自评、互评、教师评价多元结合。\n\n```json\n{\n  \"actions\": [\n    {\n      \"option\": \"add\",\n      \"type\": \"评价\",\n      \"title\": \"多元评价体系\",\n      \"description\": \"1. 活动过程表现（占40%）：教师根据小组合作、任务分工、资料整理、调查执行等过程表现评分。2. 成果展示（占40%）：小组将调查数据、分析结果、社区活动成果以PPT/手抄报/讲述等形式展示，由师生共同评分。3. 个人反思与自评（占20%）：每位学生填写自评表，反思收获与不足。评价标准包括内容完整性、创新性、团队合作、表达沟通等。\"\n    }\n  ]\n}\n```\n\n---\n【小结与后续建议】\n至此，整个说课设计的核心模块已经搭建完成。您可以根据实际需要，选择进一步细化某个活动、补充特色资源、完善评价量表，或者优化教学策略。\n\n请问，您接下来希望：\n- 深入补充某一活动的详细流程与评价标准？\n- 拓展更多特色资源或案例？\n- 设计班级展示或跨学科研讨环节？\n- 其他（请说明您的需求）？\n\n欢迎选择，我将继续为您分步完善说课设计！✨",
+      "created_at": "2025-08-22T12:01:54.806964"
+    }
+  ],
+  "canvases": [
+    {
+      "id": 20,
+      "name": "英语",
+      "lesson_count": 1,
+      "lesson_duration": 45,
+      "subject": "英语,物理,数学",
+      "updated_at": "2025-08-22T11:14:26.391938",
+      "nodes": [
+        {
+          "id": "5abf4a7f-be5d-4385-ac13-547d05828e42",
+          "type": "infoNode",
+          "position": {
+            "x": -545.7533248691769,
+            "y": -649.503324869177
+          },
+          "data": {
+            "id": "5abf4a7f-be5d-4385-ac13-547d05828e42",
+            "tag": "学习者",
+            "title": "初中二年级学生学习者画像",
+            "description": "本项目面向初中二年级学生。学生具备基本的历史、地理和科学常识，对中国传统食物和社会现象有初步了解。多数学生对美食、社会热点新闻和身边生活问题有兴趣，喜欢团队合作与实际探究活动，信息检索与数据处理能力有待提升。",
+            "sources": [
+              "AI"
+            ]
+          }
+        },
+        {
+          "id": "64e474cf-b6f5-410f-ad9a-710e1f3daa82",
+          "type": "infoNode",
+          "position": {
+            "x": -1040.317015806806,
+            "y": -656.0454253316432
+          },
+          "data": {
+            "id": "64e474cf-b6f5-410f-ad9a-710e1f3daa82",
+            "tag": "目标",
+            "title": "知识与技能目标：掌握中国人口老龄化的原因及外来食物传播史",
+            "description": "学生能够准确说出中国人口老龄化的主要原因（计划生育、婴儿潮、寿命延长、生育意愿下降等），并能讲述土豆、玉米、辣椒、番茄、花生等外来食物的原产地、传入路径及其对中国社会的影响。",
+            "sources": [
+              "AI"
+            ]
+          }
+        },
+        {
+          "id": "87958c08-c1f2-4458-9eab-805e280c625c",
+          "type": "infoNode",
+          "position": {
+            "x": -777.523460265852,
+            "y": -657.0734602658517
+          },
+          "data": {
+            "id": "87958c08-c1f2-4458-9eab-805e280c625c",
+            "tag": "目标",
+            "title": "过程与方法目标：提升社会调查与数据可视化能力",
+            "description": "学生能自主设计调查问卷，明确调查对象与目标，使用可视化工具整理分析数据，比较不同地区的人口老龄化现象，并运用信息检索与整理方法梳理外来食物传播史。",
+            "sources": [
+              "AI"
+            ]
+          }
+        },
+        {
+          "id": "a1471842-fa3e-4f75-a2e2-e3a2677cb0d9",
+          "type": "infoNode",
+          "position": {
+            "x": -258.2631187009305,
+            "y": -645.6131187009305
+          },
+          "data": {
+            "id": "a1471842-fa3e-4f75-a2e2-e3a2677cb0d9",
+            "tag": "目标",
+            "title": "情感态度与价值观目标：增强文化认同与社会责任感",
+            "description": "学生通过调研与社区实践，体会外来文化交流的积极意义，增强对老龄化社会的理解与关爱，培养开放包容、积极参与社会事务的态度。",
+            "sources": [
+              "AI"
+            ]
+          }
+        },
+        {
+          "id": "d8dfa6e6-82ac-4f1a-b095-0010f43917f1",
+          "type": "infoNode",
+          "position": {
+            "x": -529.9794589648695,
+            "y": -241.76089209789023
+          },
+          "data": {
+            "id": "d8dfa6e6-82ac-4f1a-b095-0010f43917f1",
+            "tag": "策略",
+            "title": "教学策略：项目式学习结合合作探究",
+            "description": "以真实问题为导向，学生分组围绕“人口老龄化”“外来食物传播史”展开主题探究与社会实践。教师提供阶段性指导，鼓励学生自主分工、合作完成调查、数据分析与成果展示，促进跨学科应用与创新思维培养。",
+            "sources": [
+              "AI"
+            ]
+          }
+        },
+        {
+          "id": "1ee7a7a0-7157-4eb1-ace0-c453fa2a30d1",
+          "type": "infoNode",
+          "position": {
+            "x": -525.8242745440825,
+            "y": -449.54145617475916
+          },
+          "data": {
+            "id": "1ee7a7a0-7157-4eb1-ace0-c453fa2a30d1",
+            "tag": "活动",
+            "title": "活动一：讲解与研讨——人口老龄化与外来食物传播（1课时）",
+            "description": "教师用图片、数据、故事等手段，系统讲解中国人口老龄化现象、成因及其社会影响，并介绍外来食物的传播路径与历史意义。组织小组讨论：人口老龄化对家庭与社会的影响、哪些食物原本不是中国本土。",
+            "sources": [
+              "AI"
+            ]
+          }
+        },
+        {
+          "id": "735803a9-e3e0-49eb-bb37-bcca06def8f2",
+          "type": "infoNode",
+          "position": {
+            "x": -257.4231494564382,
+            "y": -425.0273849932094
+          },
+          "data": {
+            "id": "735803a9-e3e0-49eb-bb37-bcca06def8f2",
+            "tag": "活动",
+            "title": "活动二：社会调查设计与实施（2课时+课外）",
+            "description": "学生分组确定调查主题（如本地老人生活、食物认知等），明确调查对象（社区老人、家长等）、设计问卷（含原因分析、生活习惯等），实地或线上开展问卷调查，收集数据，为后续分析做准备。",
+            "sources": [
+              "AI"
+            ]
+          }
+        },
+        {
+          "id": "a7272c6c-1892-448e-87f3-344978fd5896",
+          "type": "infoNode",
+          "position": {
+            "x": -778.4725647676205,
+            "y": -428.6125488020476
+          },
+          "data": {
+            "id": "a7272c6c-1892-448e-87f3-344978fd5896",
+            "tag": "活动",
+            "title": "活动三：数据可视化与对比分析（1课时）",
+            "description": "<ol><li><strong>数据整理：</strong>各小组首先将前期调查问卷数据或收集到的统计数据在Excel中进行归类整理，确保数据按区域、年龄、性别等主要维度进行清晰标注。</li><li><strong>图表制作：</strong>小组成员利用Excel等工具，分别制作柱状图、饼图和折线图，直观反映不同地区老龄化程度、不同性别和年龄段对外来食物的接受度等关键数据。要求每个维度至少制作一组可视化图表，并添加图表标题、数据标签与图例。</li><li><strong>结果分析：</strong>每个小组对生成的图表进行分析，撰写一段简要说明，指出各地区、各年龄层、性别之间的主要差异和趋势，初步探讨影响外来食物接受度的可能社会与文化因素。</li><li><strong>成果展示：</strong>小组派代表利用PPT或纸质海报展示可视化成果，重点讲解图表背后的数据故事，并对比分析不同地区老龄化现象和外来食物接受度的异同点。</li><li><strong>集体讨论与反馈：</strong>全班围绕各组展示内容，针对发现的差异、可能原因及数据局限性展开讨论。教师引导学生思考数据背后的社会现象，鼓励提出改进数据收集和分析的方法。</li></ol>",
+            "sources": [
+              "AI"
+            ]
+          }
+        },
+        {
+          "id": "b953c7d6-ee75-4833-945b-a04a7b689ed3",
+          "type": "infoNode",
+          "position": {
+            "x": -1047.242875946075,
+            "y": -428.5928759460745
+          },
+          "data": {
+            "id": "b953c7d6-ee75-4833-945b-a04a7b689ed3",
+            "tag": "活动",
+            "title": "活动四：关爱老人社区活动/主题班会（1课时+课外）",
+            "description": "<p>策划参与一次社区关爱老人活动（如慰问、才艺表演、健康讲座等）或举办以“外来食物与老年饮食”为主题的班会，分享调研心得，讨论青少年如何支持老龄化社会和文化交流。</p>",
+            "sources": [
+              "AI"
+            ]
+          }
+        },
+        {
+          "id": "d547734f-987b-4809-ad8a-67a3423591f4",
+          "type": "infoNode",
+          "position": {
+            "x": -1060.0031396906998,
+            "y": -223.75313969069992
+          },
+          "data": {
+            "id": "d547734f-987b-4809-ad8a-67a3423591f4",
+            "tag": "资源",
+            "title": "课堂讲解资源包",
+            "description": "《中国人口老龄化发展趋势研究》（中国人口出版社）；“国家人口与健康科学数据中心”网站：https://www.cpop.cn/；外来食物传播相关纪录片《舌尖上的中国》第三季“外来物语”单集。",
+            "sources": [
+              "AI"
+            ]
+          }
+        },
+        {
+          "id": "d8b72f6b-2f22-45e0-884a-df9abda39cb1",
+          "type": "infoNode",
+          "position": {
+            "x": -791.8565081048318,
+            "y": -233.58786140998865
+          },
+          "data": {
+            "id": "d8b72f6b-2f22-45e0-884a-df9abda39cb1",
+            "tag": "资源",
+            "title": "数据可视化与调查工具",
+            "description": "Excel/Google表格；Datawrapper（https://www.datawrapper.de/）；腾讯问卷（https://wj.qq.com/）；思维导图工具XMind（https://www.xmind.cn/）。",
+            "sources": [
+              "AI"
+            ]
+          }
+        },
+        {
+          "id": "d30e8ae7-0abf-403d-8607-dc334eb14ce8",
+          "type": "infoNode",
+          "position": {
+            "x": -839.7200683004047,
+            "y": 14.20831588908635
+          },
+          "data": {
+            "id": "d30e8ae7-0abf-403d-8607-dc334eb14ce8",
+            "tag": "评价",
+            "title": "多元评价体系",
+            "description": "1. 活动过程表现（占40%）：教师根据小组合作、任务分工、资料整理、调查执行等过程表现评分。2. 成果展示（占40%）：小组将调查数据、分析结果、社区活动成果以PPT/手抄报/讲述等形式展示，由师生共同评分。3. 个人反思与自评（占20%）：每位学生填写自评表，反思收获与不足。评价标准包括内容完整性、创新性、团队合作、表达沟通等。",
+            "sources": [
+              "AI"
+            ]
+          }
+        }
+      ],
+      "edges": [
+        {
+          "id": "ff6e467a-9e53-4955-8d17-d22d1f14dcc2",
+          "source": "64e474cf-b6f5-410f-ad9a-710e1f3daa82",
+          "target": "87958c08-c1f2-4458-9eab-805e280c625c",
+          "label": "关联",
+          "animated": true,
+          "style": {
+            "stroke": "#9e9e9e",
+            "strokeWidth": 2
+          },
+          "labelBgPadding": [
+            8,
+            4
+          ],
+          "labelBgBorderRadius": 4,
+          "labelBgStyle": {
+            "fill": "#ffffff",
+            "color": "#333"
+          },
+          "labelStyle": {
+            "fill": "#333",
+            "fontWeight": 600
+          },
+          "markerEnd": {
+            "type": "arrowclosed"
+          }
+        },
+        {
+          "id": "f3e1af64-6538-44fc-ba1a-6258f1e73576",
+          "source": "87958c08-c1f2-4458-9eab-805e280c625c",
+          "target": "5abf4a7f-be5d-4385-ac13-547d05828e42",
+          "label": "关联",
+          "animated": true,
+          "style": {
+            "stroke": "#9e9e9e",
+            "strokeWidth": 2
+          },
+          "labelBgPadding": [
+            8,
+            4
+          ],
+          "labelBgBorderRadius": 4,
+          "labelBgStyle": {
+            "fill": "#ffffff",
+            "color": "#333"
+          },
+          "labelStyle": {
+            "fill": "#333",
+            "fontWeight": 600
+          },
+          "markerEnd": {
+            "type": "arrowclosed"
+          }
+        },
+        {
+          "id": "09fac1ad-0628-4d48-a84d-892f4f5ab3c4",
+          "source": "b953c7d6-ee75-4833-945b-a04a7b689ed3",
+          "target": "a7272c6c-1892-448e-87f3-344978fd5896",
+          "label": "关联",
+          "animated": true,
+          "style": {
+            "stroke": "#9e9e9e",
+            "strokeWidth": 2
+          },
+          "labelBgPadding": [
+            8,
+            4
+          ],
+          "labelBgBorderRadius": 4,
+          "labelBgStyle": {
+            "fill": "#ffffff",
+            "color": "#333"
+          },
+          "labelStyle": {
+            "fill": "#333",
+            "fontWeight": 600
+          },
+          "markerEnd": {
+            "type": "arrowclosed"
+          }
+        },
+        {
+          "id": "b66bcfbf-6b36-4a84-b5eb-e87e7f76fddf",
+          "source": "a7272c6c-1892-448e-87f3-344978fd5896",
+          "target": "1ee7a7a0-7157-4eb1-ace0-c453fa2a30d1",
+          "label": "关联",
+          "animated": true,
+          "style": {
+            "stroke": "#9e9e9e",
+            "strokeWidth": 2
+          },
+          "labelBgPadding": [
+            8,
+            4
+          ],
+          "labelBgBorderRadius": 4,
+          "labelBgStyle": {
+            "fill": "#ffffff",
+            "color": "#333"
+          },
+          "labelStyle": {
+            "fill": "#333",
+            "fontWeight": 600
+          },
+          "markerEnd": {
+            "type": "arrowclosed"
+          }
+        },
+        {
+          "id": "497ac501-54b9-488f-96ac-1ed9029f54cd",
+          "source": "1ee7a7a0-7157-4eb1-ace0-c453fa2a30d1",
+          "target": "735803a9-e3e0-49eb-bb37-bcca06def8f2",
+          "label": "关联",
+          "animated": true,
+          "style": {
+            "stroke": "#9e9e9e",
+            "strokeWidth": 2
+          },
+          "labelBgPadding": [
+            8,
+            4
+          ],
+          "labelBgBorderRadius": 4,
+          "labelBgStyle": {
+            "fill": "#ffffff",
+            "color": "#333"
+          },
+          "labelStyle": {
+            "fill": "#333",
+            "fontWeight": 600
+          },
+          "markerEnd": {
+            "type": "arrowclosed"
+          }
+        },
+        {
+          "id": "09f0f45b-f702-4307-937e-b283a5bc2cb2",
+          "source": "d8b72f6b-2f22-45e0-884a-df9abda39cb1",
+          "target": "d8dfa6e6-82ac-4f1a-b095-0010f43917f1",
+          "label": "关联",
+          "animated": true,
+          "style": {
+            "stroke": "#9e9e9e",
+            "strokeWidth": 2
+          },
+          "labelBgPadding": [
+            8,
+            4
+          ],
+          "labelBgBorderRadius": 4,
+          "labelBgStyle": {
+            "fill": "#ffffff",
+            "color": "#333"
+          },
+          "labelStyle": {
+            "fill": "#333",
+            "fontWeight": 600
+          },
+          "markerEnd": {
+            "type": "arrowclosed"
+          }
+        },
+        {
+          "id": "94341556-6620-43a6-ab39-b298cfc172c9",
+          "source": "d547734f-987b-4809-ad8a-67a3423591f4",
+          "target": "d8b72f6b-2f22-45e0-884a-df9abda39cb1",
+          "label": "关联",
+          "animated": true,
+          "style": {
+            "stroke": "#9e9e9e",
+            "strokeWidth": 2
+          },
+          "labelBgPadding": [
+            8,
+            4
+          ],
+          "labelBgBorderRadius": 4,
+          "labelBgStyle": {
+            "fill": "#ffffff",
+            "color": "#333"
+          },
+          "labelStyle": {
+            "fill": "#333",
+            "fontWeight": 600
+          },
+          "markerEnd": {
+            "type": "arrowclosed"
+          }
+        }
+      ]
+    }
+  ],
+  "activity_logs": [
+    {
+      "id": 994,
+      "user_id": "a7a98228-4221-48b3-a86d-2224dfd40cd4",
+      "canvas_id": 20,
+      "action": "create",
+      "entity_type": "canvas",
+      "entity_id": "20",
+      "details": {
+        "name": "英语",
+        "subject": "英语,物理,数学"
+      },
+      "timestamp": "2025-08-22T11:14:26.395850"
+    },
+    {
+      "id": 995,
+      "user_id": "a7a98228-4221-48b3-a86d-2224dfd40cd4",
+      "canvas_id": 20,
+      "action": "create",
+      "entity_type": "node",
+      "entity_id": "21a59605-858b-4e73-a455-d9aa9764fa17",
+      "details": {
+        "title": "学习者特征卡片",
+        "tag": "学习者"
+      },
+      "timestamp": "2025-08-22T11:14:27.311735"
+    },
+    {
+      "id": 1210,
+      "user_id": "a7a98228-4221-48b3-a86d-2224dfd40cd4",
+      "canvas_id": 20,
+      "action": "update",
+      "entity_type": "node",
+      "entity_id": "21a59605-858b-4e73-a455-d9aa9764fa17",
+      "details": {
+        "old": {
+          "id": "21a59605-858b-4e73-a455-d9aa9764fa17",
+          "type": "infoNode",
+          "position": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "data": {
+            "id": "21a59605-858b-4e73-a455-d9aa9764fa17",
+            "tag": "学习者",
+            "title": "学习者特征卡片",
+            "description": "单击以输入你面向的学习者群体",
+            "sources": [
+              "教师"
+            ]
+          }
+        },
+        "new": {
+          "id": "21a59605-858b-4e73-a455-d9aa9764fa17",
+          "type": "infoNode",
+          "position": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "data": {
+            "id": "21a59605-858b-4e73-a455-d9aa9764fa17",
+            "tag": "学习者",
+            "title": "学习者特征卡片",
+            "description": "请补充目标学生的年级（如初中二年级）、已有相关知识基础（如对中国传统食物的了解）、兴趣点（如喜欢美食、喜欢历史探究）、学习风格（如喜欢合作、喜欢动手实践）等详细信息。",
+            "sources": [
+              "教师"
+            ]
+          }
+        }
+      },
+      "timestamp": "2025-08-22T11:53:54.985682"
+    },
+    {
+      "id": 1211,
+      "user_id": "a7a98228-4221-48b3-a86d-2224dfd40cd4",
+      "canvas_id": 20,
+      "action": "create",
+      "entity_type": "node",
+      "entity_id": "f52f015c-0413-411f-ae38-562bee51d0bc",
+      "details": {
+        "title": "知识与技能目标：了解主要外来食物的传播路径及历史影响",
+        "tag": "目标"
+      },
+      "timestamp": "2025-08-22T11:53:58.903462"
+    },
+    {
+      "id": 1213,
+      "user_id": "a7a98228-4221-48b3-a86d-2224dfd40cd4",
+      "canvas_id": 20,
+      "action": "create",
+      "entity_type": "node",
+      "entity_id": "91c56341-d4b3-4648-9a1a-f210e8cc197a",
+      "details": {
+        "title": "过程与方法目标：培养信息检索与资料整理能力",
+        "tag": "目标"
+      },
+      "timestamp": "2025-08-22T11:54:06.227478"
+    },
+    {
+      "id": 1214,
+      "user_id": "a7a98228-4221-48b3-a86d-2224dfd40cd4",
+      "canvas_id": 20,
+      "action": "create",
+      "entity_type": "node",
+      "entity_id": "8e03bf31-53da-4254-af4c-9e04eea745cf",
+      "details": {
+        "title": "情感态度与价值观目标：体会文化交流与全球化的意义",
+        "tag": "目标"
+      },
+      "timestamp": "2025-08-22T11:54:07.232160"
+    },
+    {
+      "id": 1224,
+      "user_id": "a7a98228-4221-48b3-a86d-2224dfd40cd4",
+      "canvas_id": 20,
+      "action": "update",
+      "entity_type": "node",
+      "entity_id": "21a59605-858b-4e73-a455-d9aa9764fa17",
+      "details": {
+        "old": {
+          "id": "21a59605-858b-4e73-a455-d9aa9764fa17",
+          "type": "infoNode",
+          "position": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "data": {
+            "id": "21a59605-858b-4e73-a455-d9aa9764fa17",
+            "tag": "学习者",
+            "title": "学习者特征卡片",
+            "description": "请补充目标学生的年级（如初中二年级）、已有相关知识基础（如对中国传统食物的了解）、兴趣点（如喜欢美食、喜欢历史探究）、学习风格（如喜欢合作、喜欢动手实践）等详细信息。",
+            "sources": [
+              "教师"
+            ]
+          }
+        },
+        "new": {
+          "id": "21a59605-858b-4e73-a455-d9aa9764fa17",
+          "type": "infoNode",
+          "position": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "data": {
+            "id": "21a59605-858b-4e73-a455-d9aa9764fa17",
+            "tag": "学习者",
+            "title": "学习者特征卡片",
+            "description": "<p>请补充目标学生的年级（如初中二年级）、已有相关知识基础（如对中国传统食物的了解）、兴趣点（如喜欢美食、喜欢历史探究）、学习风格（如喜欢合作、喜欢动手实践）等详细信息。</p>",
+            "sources": [
+              "教师"
+            ]
+          }
+        }
+      },
+      "timestamp": "2025-08-22T11:57:05.687329"
+    },
+    {
+      "id": 1225,
+      "user_id": "a7a98228-4221-48b3-a86d-2224dfd40cd4",
+      "canvas_id": 20,
+      "action": "update",
+      "entity_type": "node",
+      "entity_id": "21a59605-858b-4e73-a455-d9aa9764fa17",
+      "details": {
+        "old": {
+          "id": "21a59605-858b-4e73-a455-d9aa9764fa17",
+          "type": "infoNode",
+          "position": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "data": {
+            "id": "21a59605-858b-4e73-a455-d9aa9764fa17",
+            "tag": "学习者",
+            "title": "学习者特征卡片",
+            "description": "<p>请补充目标学生的年级（如初中二年级）、已有相关知识基础（如对中国传统食物的了解）、兴趣点（如喜欢美食、喜欢历史探究）、学习风格（如喜欢合作、喜欢动手实践）等详细信息。</p>",
+            "sources": [
+              "教师"
+            ]
+          }
+        },
+        "new": {
+          "id": "21a59605-858b-4e73-a455-d9aa9764fa17",
+          "type": "infoNode",
+          "position": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "data": {
+            "id": "21a59605-858b-4e73-a455-d9aa9764fa17",
+            "tag": "学习者",
+            "title": "学习者特征卡片",
+            "description": "<p>请补充目标学生的年级（如初中二年级）、已有相关知识基础（如对中国传统食物的了解）、兴趣点（如喜欢美食、喜欢历史探究）、学习风格（如喜欢合作、喜欢动手实践）等详细信息。</p>",
+            "sources": [
+              "教师"
+            ]
+          }
+        }
+      },
+      "timestamp": "2025-08-22T11:57:29.191125"
+    },
+    {
+      "id": 1226,
+      "user_id": "a7a98228-4221-48b3-a86d-2224dfd40cd4",
+      "canvas_id": 20,
+      "action": "delete",
+      "entity_type": "node",
+      "entity_id": "21a59605-858b-4e73-a455-d9aa9764fa17",
+      "details": {
+        "deleted_data": {
+          "id": "21a59605-858b-4e73-a455-d9aa9764fa17",
+          "type": "infoNode",
+          "position": {
+            "x": 50.0,
+            "y": 50.0
+          },
+          "data": {
+            "id": "21a59605-858b-4e73-a455-d9aa9764fa17",
+            "tag": "学习者",
+            "title": "学习者特征卡片",
+            "description": "<p>请补充目标学生的年级（如初中二年级）、已有相关知识基础（如对中国传统食物的了解）、兴趣点（如喜欢美食、喜欢历史探究）、学习风格（如喜欢合作、喜欢动手实践）等详细信息。</p>",
+            "sources": [
+              "教师"
+            ]
+          }
+        }
+      },
+      "timestamp": "2025-08-22T11:57:34.837007"
+    },
+    {
+      "id": 1227,
+      "user_id": "a7a98228-4221-48b3-a86d-2224dfd40cd4",
+      "canvas_id": 20,
+      "action": "delete",
+      "entity_type": "node",
+      "entity_id": "8e03bf31-53da-4254-af4c-9e04eea745cf",
+      "details": {
+        "deleted_data": {
+          "id": "8e03bf31-53da-4254-af4c-9e04eea745cf",
+          "type": "infoNode",
+          "position": {
+            "x": 326.81114913355367,
+            "y": 151.06114913355367
+          },
+          "data": {
+            "id": "8e03bf31-53da-4254-af4c-9e04eea745cf",
+            "tag": "目标",
+            "title": "情感态度与价值观目标：体会文化交流与全球化的意义",
+            "description": "学生能够认识到外来食物丰富了中国饮食文化，理解全球化对日常生活的深远影响，培养开放包容的文化态度。",
+            "sources": [
+              "AI"
+            ]
+          }
+        }
+      },
+      "timestamp": "2025-08-22T11:57:38.747169"
+    },
+    {
+      "id": 1229,
+      "user_id": "a7a98228-4221-48b3-a86d-2224dfd40cd4",
+      "canvas_id": 20,
+      "action": "delete",
+      "entity_type": "node",
+      "entity_id": "91c56341-d4b3-4648-9a1a-f210e8cc197a",
+      "details": {
+        "deleted_data": {
+          "id": "91c56341-d4b3-4648-9a1a-f210e8cc197a",
+          "type": "infoNode",
+          "position": {
+            "x": 352.85915808882413,
+            "y": 177.10915808882413
+          },
+          "data": {
+            "id": "91c56341-d4b3-4648-9a1a-f210e8cc197a",
+            "tag": "目标",
+            "title": "过程与方法目标：培养信息检索与资料整理能力",
+            "description": "学生能够通过查找资料、文献和网络资源，梳理外来食物传播的历史脉络，用思维导图、时间线等方式进行整理和展示。",
+            "sources": [
+              "AI"
+            ]
+          }
+        }
+      },
+      "timestamp": "2025-08-22T11:57:42.252939"
+    },
+    {
+      "id": 1230,
+      "user_id": "a7a98228-4221-48b3-a86d-2224dfd40cd4",
+      "canvas_id": 20,
+      "action": "delete",
+      "entity_type": "node",
+      "entity_id": "f52f015c-0413-411f-ae38-562bee51d0bc",
+      "details": {
+        "deleted_data": {
+          "id": "f52f015c-0413-411f-ae38-562bee51d0bc",
+          "type": "infoNode",
+          "position": {
+            "x": 319.75339006475446,
+            "y": 144.00339006475443
+          },
+          "data": {
+            "id": "f52f015c-0413-411f-ae38-562bee51d0bc",
+            "tag": "目标",
+            "title": "知识与技能目标：了解主要外来食物的传播路径及历史影响",
+            "description": "学生能够说出土豆、玉米、辣椒、番茄、花生等外来食物的原产地、传入中国的时间路径，以及它们对中国农业和饮食文化的影响。",
+            "sources": [
+              "AI"
+            ]
+          }
+        }
+      },
+      "timestamp": "2025-08-22T11:57:46.521998"
+    },
+    {
+      "id": 1242,
+      "user_id": "a7a98228-4221-48b3-a86d-2224dfd40cd4",
+      "canvas_id": 20,
+      "action": "create",
+      "entity_type": "node",
+      "entity_id": "5abf4a7f-be5d-4385-ac13-547d05828e42",
+      "details": {
+        "title": "初中二年级学生学习者画像",
+        "tag": "学习者"
+      },
+      "timestamp": "2025-08-22T12:02:11.563387"
+    },
+    {
+      "id": 1243,
+      "user_id": "a7a98228-4221-48b3-a86d-2224dfd40cd4",
+      "canvas_id": 20,
+      "action": "create",
+      "entity_type": "node",
+      "entity_id": "64e474cf-b6f5-410f-ad9a-710e1f3daa82",
+      "details": {
+        "title": "知识与技能目标：掌握中国人口老龄化的原因及外来食物传播史",
+        "tag": "目标"
+      },
+      "timestamp": "2025-08-22T12:02:13.868957"
+    },
+    {
+      "id": 1244,
+      "user_id": "a7a98228-4221-48b3-a86d-2224dfd40cd4",
+      "canvas_id": 20,
+      "action": "create",
+      "entity_type": "node",
+      "entity_id": "87958c08-c1f2-4458-9eab-805e280c625c",
+      "details": {
+        "title": "过程与方法目标：提升社会调查与数据可视化能力",
+        "tag": "目标"
+      },
+      "timestamp": "2025-08-22T12:02:16.570033"
+    },
+    {
+      "id": 1245,
+      "user_id": "a7a98228-4221-48b3-a86d-2224dfd40cd4",
+      "canvas_id": 20,
+      "action": "create",
+      "entity_type": "node",
+      "entity_id": "a1471842-fa3e-4f75-a2e2-e3a2677cb0d9",
+      "details": {
+        "title": "情感态度与价值观目标：增强文化认同与社会责任感",
+        "tag": "目标"
+      },
+      "timestamp": "2025-08-22T12:02:18.334678"
+    },
+    {
+      "id": 1246,
+      "user_id": "a7a98228-4221-48b3-a86d-2224dfd40cd4",
+      "canvas_id": 20,
+      "action": "create",
+      "entity_type": "node",
+      "entity_id": "d8dfa6e6-82ac-4f1a-b095-0010f43917f1",
+      "details": {
+        "title": "教学策略：项目式学习结合合作探究",
+        "tag": "策略"
+      },
+      "timestamp": "2025-08-22T12:02:22.949266"
+    },
+    {
+      "id": 1247,
+      "user_id": "a7a98228-4221-48b3-a86d-2224dfd40cd4",
+      "canvas_id": 20,
+      "action": "create",
+      "entity_type": "node",
+      "entity_id": "1ee7a7a0-7157-4eb1-ace0-c453fa2a30d1",
+      "details": {
+        "title": "活动一：讲解与研讨——人口老龄化与外来食物传播（1课时）",
+        "tag": "活动"
+      },
+      "timestamp": "2025-08-22T12:02:25.038411"
+    },
+    {
+      "id": 1248,
+      "user_id": "a7a98228-4221-48b3-a86d-2224dfd40cd4",
+      "canvas_id": 20,
+      "action": "create",
+      "entity_type": "node",
+      "entity_id": "735803a9-e3e0-49eb-bb37-bcca06def8f2",
+      "details": {
+        "title": "活动二：社会调查设计与实施（2课时+课外）",
+        "tag": "活动"
+      },
+      "timestamp": "2025-08-22T12:02:26.982714"
+    },
+    {
+      "id": 1250,
+      "user_id": "a7a98228-4221-48b3-a86d-2224dfd40cd4",
+      "canvas_id": 20,
+      "action": "create",
+      "entity_type": "node",
+      "entity_id": "a7272c6c-1892-448e-87f3-344978fd5896",
+      "details": {
+        "title": "活动三：数据可视化与对比分析（1课时）",
+        "tag": "活动"
+      },
+      "timestamp": "2025-08-22T12:02:30.057633"
+    },
+    {
+      "id": 1251,
+      "user_id": "a7a98228-4221-48b3-a86d-2224dfd40cd4",
+      "canvas_id": 20,
+      "action": "create",
+      "entity_type": "node",
+      "entity_id": "b953c7d6-ee75-4833-945b-a04a7b689ed3",
+      "details": {
+        "title": "活动四：关爱老人社区活动/主题班会（1课时+课外）",
+        "tag": "活动"
+      },
+      "timestamp": "2025-08-22T12:02:33.047770"
+    },
+    {
+      "id": 1253,
+      "user_id": "a7a98228-4221-48b3-a86d-2224dfd40cd4",
+      "canvas_id": 20,
+      "action": "create",
+      "entity_type": "node",
+      "entity_id": "d547734f-987b-4809-ad8a-67a3423591f4",
+      "details": {
+        "title": "课堂讲解资源包",
+        "tag": "资源"
+      },
+      "timestamp": "2025-08-22T12:02:37.234946"
+    },
+    {
+      "id": 1254,
+      "user_id": "a7a98228-4221-48b3-a86d-2224dfd40cd4",
+      "canvas_id": 20,
+      "action": "create",
+      "entity_type": "node",
+      "entity_id": "d8b72f6b-2f22-45e0-884a-df9abda39cb1",
+      "details": {
+        "title": "数据可视化与调查工具",
+        "tag": "资源"
+      },
+      "timestamp": "2025-08-22T12:02:39.869452"
+    },
+    {
+      "id": 1255,
+      "user_id": "a7a98228-4221-48b3-a86d-2224dfd40cd4",
+      "canvas_id": 20,
+      "action": "create",
+      "entity_type": "node",
+      "entity_id": "d30e8ae7-0abf-403d-8607-dc334eb14ce8",
+      "details": {
+        "title": "多元评价体系",
+        "tag": "评价"
+      },
+      "timestamp": "2025-08-22T12:02:41.886308"
+    },
+    {
+      "id": 1268,
+      "user_id": "a7a98228-4221-48b3-a86d-2224dfd40cd4",
+      "canvas_id": 20,
+      "action": "create",
+      "entity_type": "edge",
+      "entity_id": "ff6e467a-9e53-4955-8d17-d22d1f14dcc2",
+      "details": {
+        "source": "64e474cf-b6f5-410f-ad9a-710e1f3daa82",
+        "target": "87958c08-c1f2-4458-9eab-805e280c625c",
+        "label": "关联"
+      },
+      "timestamp": "2025-08-22T12:07:41.859547"
+    },
+    {
+      "id": 1271,
+      "user_id": "a7a98228-4221-48b3-a86d-2224dfd40cd4",
+      "canvas_id": 20,
+      "action": "create",
+      "entity_type": "edge",
+      "entity_id": "f3e1af64-6538-44fc-ba1a-6258f1e73576",
+      "details": {
+        "source": "87958c08-c1f2-4458-9eab-805e280c625c",
+        "target": "5abf4a7f-be5d-4385-ac13-547d05828e42",
+        "label": "关联"
+      },
+      "timestamp": "2025-08-22T12:07:53.312678"
+    },
+    {
+      "id": 1277,
+      "user_id": "a7a98228-4221-48b3-a86d-2224dfd40cd4",
+      "canvas_id": 20,
+      "action": "create",
+      "entity_type": "edge",
+      "entity_id": "09fac1ad-0628-4d48-a84d-892f4f5ab3c4",
+      "details": {
+        "source": "b953c7d6-ee75-4833-945b-a04a7b689ed3",
+        "target": "a7272c6c-1892-448e-87f3-344978fd5896",
+        "label": "关联"
+      },
+      "timestamp": "2025-08-22T12:08:58.164633"
+    },
+    {
+      "id": 1278,
+      "user_id": "a7a98228-4221-48b3-a86d-2224dfd40cd4",
+      "canvas_id": 20,
+      "action": "create",
+      "entity_type": "edge",
+      "entity_id": "b66bcfbf-6b36-4a84-b5eb-e87e7f76fddf",
+      "details": {
+        "source": "a7272c6c-1892-448e-87f3-344978fd5896",
+        "target": "1ee7a7a0-7157-4eb1-ace0-c453fa2a30d1",
+        "label": "关联"
+      },
+      "timestamp": "2025-08-22T12:09:00.447079"
+    },
+    {
+      "id": 1279,
+      "user_id": "a7a98228-4221-48b3-a86d-2224dfd40cd4",
+      "canvas_id": 20,
+      "action": "create",
+      "entity_type": "edge",
+      "entity_id": "497ac501-54b9-488f-96ac-1ed9029f54cd",
+      "details": {
+        "source": "1ee7a7a0-7157-4eb1-ace0-c453fa2a30d1",
+        "target": "735803a9-e3e0-49eb-bb37-bcca06def8f2",
+        "label": "关联"
+      },
+      "timestamp": "2025-08-22T12:09:02.619996"
+    },
+    {
+      "id": 1281,
+      "user_id": "a7a98228-4221-48b3-a86d-2224dfd40cd4",
+      "canvas_id": 20,
+      "action": "create",
+      "entity_type": "edge",
+      "entity_id": "09f0f45b-f702-4307-937e-b283a5bc2cb2",
+      "details": {
+        "source": "d8b72f6b-2f22-45e0-884a-df9abda39cb1",
+        "target": "d8dfa6e6-82ac-4f1a-b095-0010f43917f1",
+        "label": "关联"
+      },
+      "timestamp": "2025-08-22T12:09:07.102470"
+    },
+    {
+      "id": 1282,
+      "user_id": "a7a98228-4221-48b3-a86d-2224dfd40cd4",
+      "canvas_id": 20,
+      "action": "create",
+      "entity_type": "edge",
+      "entity_id": "94341556-6620-43a6-ab39-b298cfc172c9",
+      "details": {
+        "source": "d547734f-987b-4809-ad8a-67a3423591f4",
+        "target": "d8b72f6b-2f22-45e0-884a-df9abda39cb1",
+        "label": "关联"
+      },
+      "timestamp": "2025-08-22T12:09:10.335638"
+    },
+    {
+      "id": 1292,
+      "user_id": "a7a98228-4221-48b3-a86d-2224dfd40cd4",
+      "canvas_id": 20,
+      "action": "update",
+      "entity_type": "node",
+      "entity_id": "b953c7d6-ee75-4833-945b-a04a7b689ed3",
+      "details": {
+        "old": {
+          "id": "b953c7d6-ee75-4833-945b-a04a7b689ed3",
+          "type": "infoNode",
+          "position": {
+            "x": -1047.242875946075,
+            "y": -428.5928759460745
+          },
+          "data": {
+            "id": "b953c7d6-ee75-4833-945b-a04a7b689ed3",
+            "tag": "活动",
+            "title": "活动四：关爱老人社区活动/主题班会（1课时+课外）",
+            "description": "策划参与一次社区关爱老人活动（如慰问、才艺表演、健康讲座等）或举办以“外来食物与老年饮食”为主题的班会，分享调研心得，讨论青少年如何支持老龄化社会和文化交流。",
+            "sources": [
+              "AI"
+            ]
+          }
+        },
+        "new": {
+          "id": "b953c7d6-ee75-4833-945b-a04a7b689ed3",
+          "type": "infoNode",
+          "position": {
+            "x": -1047.242875946075,
+            "y": -428.5928759460745
+          },
+          "data": {
+            "id": "b953c7d6-ee75-4833-945b-a04a7b689ed3",
+            "tag": "活动",
+            "title": "活动四：关爱老人社区活动/主题班会（1课时+课外）",
+            "description": "<p>策划参与一次社区关爱老人活动（如慰问、才艺表演、健康讲座等）或举办以“外来食物与老年饮食”为主题的班会，分享调研心得，讨论青少年如何支持老龄化社会和文化交流。</p>",
+            "sources": [
+              "AI"
+            ]
+          }
+        }
+      },
+      "timestamp": "2025-08-22T12:11:40.865855"
+    },
+    {
+      "id": 1295,
+      "user_id": "a7a98228-4221-48b3-a86d-2224dfd40cd4",
+      "canvas_id": 20,
+      "action": "ai_suggest_refine",
+      "entity_type": "node",
+      "entity_id": "a7272c6c-1892-448e-87f3-344978fd5896",
+      "details": {
+        "prompt": "卡片标签: 活动。标题: 活动三：数据可视化与对比分析（1课时）。描述: <p>学生利用Excel等工具，将调查数据制成柱状图、饼图等，进行区域、年龄、性别等维度的可视化分析。各组展示结果，讨论不同地区老龄化差异及外来食物接受度的影响因素。</p>。 请根据卡片内容，将描述部分进行细化和扩充。",
+        "target_node_id": "a7272c6c-1892-448e-87f3-344978fd5896"
+      },
+      "timestamp": "2025-08-22T12:12:11.151888"
+    },
+    {
+      "id": 1296,
+      "user_id": "a7a98228-4221-48b3-a86d-2224dfd40cd4",
+      "canvas_id": 20,
+      "action": "update",
+      "entity_type": "node",
+      "entity_id": "a7272c6c-1892-448e-87f3-344978fd5896",
+      "details": {
+        "old": {
+          "id": "a7272c6c-1892-448e-87f3-344978fd5896",
+          "type": "infoNode",
+          "position": {
+            "x": -778.4725647676205,
+            "y": -428.6125488020476
+          },
+          "data": {
+            "id": "a7272c6c-1892-448e-87f3-344978fd5896",
+            "tag": "活动",
+            "title": "活动三：数据可视化与对比分析（1课时）",
+            "description": "学生利用Excel等工具，将调查数据制成柱状图、饼图等，进行区域、年龄、性别等维度的可视化分析。各组展示结果，讨论不同地区老龄化差异及外来食物接受度的影响因素。",
+            "sources": [
+              "AI"
+            ]
+          }
+        },
+        "new": {
+          "id": "a7272c6c-1892-448e-87f3-344978fd5896",
+          "type": "infoNode",
+          "position": {
+            "x": -778.4725647676205,
+            "y": -428.6125488020476
+          },
+          "data": {
+            "id": "a7272c6c-1892-448e-87f3-344978fd5896",
+            "tag": "活动",
+            "title": "活动三：数据可视化与对比分析（1课时）",
+            "description": "<ol><li><strong>数据整理：</strong>各小组首先将前期调查问卷数据或收集到的统计数据在Excel中进行归类整理，确保数据按区域、年龄、性别等主要维度进行清晰标注。</li><li><strong>图表制作：</strong>小组成员利用Excel等工具，分别制作柱状图、饼图和折线图，直观反映不同地区老龄化程度、不同性别和年龄段对外来食物的接受度等关键数据。要求每个维度至少制作一组可视化图表，并添加图表标题、数据标签与图例。</li><li><strong>结果分析：</strong>每个小组对生成的图表进行分析，撰写一段简要说明，指出各地区、各年龄层、性别之间的主要差异和趋势，初步探讨影响外来食物接受度的可能社会与文化因素。</li><li><strong>成果展示：</strong>小组派代表利用PPT或纸质海报展示可视化成果，重点讲解图表背后的数据故事，并对比分析不同地区老龄化现象和外来食物接受度的异同点。</li><li><strong>集体讨论与反馈：</strong>全班围绕各组展示内容，针对发现的差异、可能原因及数据局限性展开讨论。教师引导学生思考数据背后的社会现象，鼓励提出改进数据收集和分析的方法。</li></ol>",
+            "sources": [
+              "AI"
+            ]
+          }
+        }
+      },
+      "timestamp": "2025-08-22T12:12:23.497041"
+    },
+    {
+      "id": 1297,
+      "user_id": "a7a98228-4221-48b3-a86d-2224dfd40cd4",
+      "canvas_id": 20,
+      "action": "update",
+      "entity_type": "node",
+      "entity_id": "a7272c6c-1892-448e-87f3-344978fd5896",
+      "details": {
+        "old": {
+          "id": "a7272c6c-1892-448e-87f3-344978fd5896",
+          "type": "infoNode",
+          "position": {
+            "x": -778.4725647676205,
+            "y": -428.6125488020476
+          },
+          "data": {
+            "id": "a7272c6c-1892-448e-87f3-344978fd5896",
+            "tag": "活动",
+            "title": "活动三：数据可视化与对比分析（1课时）",
+            "description": "<ol><li><strong>数据整理：</strong>各小组首先将前期调查问卷数据或收集到的统计数据在Excel中进行归类整理，确保数据按区域、年龄、性别等主要维度进行清晰标注。</li><li><strong>图表制作：</strong>小组成员利用Excel等工具，分别制作柱状图、饼图和折线图，直观反映不同地区老龄化程度、不同性别和年龄段对外来食物的接受度等关键数据。要求每个维度至少制作一组可视化图表，并添加图表标题、数据标签与图例。</li><li><strong>结果分析：</strong>每个小组对生成的图表进行分析，撰写一段简要说明，指出各地区、各年龄层、性别之间的主要差异和趋势，初步探讨影响外来食物接受度的可能社会与文化因素。</li><li><strong>成果展示：</strong>小组派代表利用PPT或纸质海报展示可视化成果，重点讲解图表背后的数据故事，并对比分析不同地区老龄化现象和外来食物接受度的异同点。</li><li><strong>集体讨论与反馈：</strong>全班围绕各组展示内容，针对发现的差异、可能原因及数据局限性展开讨论。教师引导学生思考数据背后的社会现象，鼓励提出改进数据收集和分析的方法。</li></ol>",
+            "sources": [
+              "AI"
+            ]
+          }
+        },
+        "new": {
+          "id": "a7272c6c-1892-448e-87f3-344978fd5896",
+          "type": "infoNode",
+          "position": {
+            "x": -778.4725647676205,
+            "y": -428.6125488020476
+          },
+          "data": {
+            "id": "a7272c6c-1892-448e-87f3-344978fd5896",
+            "tag": "活动",
+            "title": "活动三：数据可视化与对比分析（1课时）",
+            "description": "<ol><li><strong>数据整理：</strong>各小组首先将前期调查问卷数据或收集到的统计数据在Excel中进行归类整理，确保数据按区域、年龄、性别等主要维度进行清晰标注。</li><li><strong>图表制作：</strong>小组成员利用Excel等工具，分别制作柱状图、饼图和折线图，直观反映不同地区老龄化程度、不同性别和年龄段对外来食物的接受度等关键数据。要求每个维度至少制作一组可视化图表，并添加图表标题、数据标签与图例。</li><li><strong>结果分析：</strong>每个小组对生成的图表进行分析，撰写一段简要说明，指出各地区、各年龄层、性别之间的主要差异和趋势，初步探讨影响外来食物接受度的可能社会与文化因素。</li><li><strong>成果展示：</strong>小组派代表利用PPT或纸质海报展示可视化成果，重点讲解图表背后的数据故事，并对比分析不同地区老龄化现象和外来食物接受度的异同点。</li><li><strong>集体讨论与反馈：</strong>全班围绕各组展示内容，针对发现的差异、可能原因及数据局限性展开讨论。教师引导学生思考数据背后的社会现象，鼓励提出改进数据收集和分析的方法。</li></ol>",
+            "sources": [
+              "AI"
+            ]
+          }
+        }
+      },
+      "timestamp": "2025-08-22T12:12:27.810140"
+    },
+    {
+      "id": 1298,
+      "user_id": "a7a98228-4221-48b3-a86d-2224dfd40cd4",
+      "canvas_id": 20,
+      "action": "update",
+      "entity_type": "node",
+      "entity_id": "a7272c6c-1892-448e-87f3-344978fd5896",
+      "details": {
+        "old": {
+          "id": "a7272c6c-1892-448e-87f3-344978fd5896",
+          "type": "infoNode",
+          "position": {
+            "x": -778.4725647676205,
+            "y": -428.6125488020476
+          },
+          "data": {
+            "id": "a7272c6c-1892-448e-87f3-344978fd5896",
+            "tag": "活动",
+            "title": "活动三：数据可视化与对比分析（1课时）",
+            "description": "<ol><li><strong>数据整理：</strong>各小组首先将前期调查问卷数据或收集到的统计数据在Excel中进行归类整理，确保数据按区域、年龄、性别等主要维度进行清晰标注。</li><li><strong>图表制作：</strong>小组成员利用Excel等工具，分别制作柱状图、饼图和折线图，直观反映不同地区老龄化程度、不同性别和年龄段对外来食物的接受度等关键数据。要求每个维度至少制作一组可视化图表，并添加图表标题、数据标签与图例。</li><li><strong>结果分析：</strong>每个小组对生成的图表进行分析，撰写一段简要说明，指出各地区、各年龄层、性别之间的主要差异和趋势，初步探讨影响外来食物接受度的可能社会与文化因素。</li><li><strong>成果展示：</strong>小组派代表利用PPT或纸质海报展示可视化成果，重点讲解图表背后的数据故事，并对比分析不同地区老龄化现象和外来食物接受度的异同点。</li><li><strong>集体讨论与反馈：</strong>全班围绕各组展示内容，针对发现的差异、可能原因及数据局限性展开讨论。教师引导学生思考数据背后的社会现象，鼓励提出改进数据收集和分析的方法。</li></ol>",
+            "sources": [
+              "AI"
+            ]
+          }
+        },
+        "new": {
+          "id": "a7272c6c-1892-448e-87f3-344978fd5896",
+          "type": "infoNode",
+          "position": {
+            "x": -778.4725647676205,
+            "y": -428.6125488020476
+          },
+          "data": {
+            "id": "a7272c6c-1892-448e-87f3-344978fd5896",
+            "tag": "活动",
+            "title": "活动三：数据可视化与对比分析（1课时）",
+            "description": "<ol><li><strong>数据整理：</strong>各小组首先将前期调查问卷数据或收集到的统计数据在Excel中进行归类整理，确保数据按区域、年龄、性别等主要维度进行清晰标注。</li><li><strong>图表制作：</strong>小组成员利用Excel等工具，分别制作柱状图、饼图和折线图，直观反映不同地区老龄化程度、不同性别和年龄段对外来食物的接受度等关键数据。要求每个维度至少制作一组可视化图表，并添加图表标题、数据标签与图例。</li><li><strong>结果分析：</strong>每个小组对生成的图表进行分析，撰写一段简要说明，指出各地区、各年龄层、性别之间的主要差异和趋势，初步探讨影响外来食物接受度的可能社会与文化因素。</li><li><strong>成果展示：</strong>小组派代表利用PPT或纸质海报展示可视化成果，重点讲解图表背后的数据故事，并对比分析不同地区老龄化现象和外来食物接受度的异同点。</li><li><strong>集体讨论与反馈：</strong>全班围绕各组展示内容，针对发现的差异、可能原因及数据局限性展开讨论。教师引导学生思考数据背后的社会现象，鼓励提出改进数据收集和分析的方法。</li></ol>",
+            "sources": [
+              "AI"
+            ]
+          }
+        }
+      },
+      "timestamp": "2025-08-22T12:12:44.974548"
+    },
+    {
+      "id": 1325,
+      "user_id": "a7a98228-4221-48b3-a86d-2224dfd40cd4",
+      "canvas_id": 20,
+      "action": "update",
+      "entity_type": "node",
+      "entity_id": "b953c7d6-ee75-4833-945b-a04a7b689ed3",
+      "details": {
+        "old": {
+          "id": "b953c7d6-ee75-4833-945b-a04a7b689ed3",
+          "type": "infoNode",
+          "position": {
+            "x": -1047.242875946075,
+            "y": -428.5928759460745
+          },
+          "data": {
+            "id": "b953c7d6-ee75-4833-945b-a04a7b689ed3",
+            "tag": "活动",
+            "title": "活动四：关爱老人社区活动/主题班会（1课时+课外）",
+            "description": "<p>策划参与一次社区关爱老人活动（如慰问、才艺表演、健康讲座等）或举办以“外来食物与老年饮食”为主题的班会，分享调研心得，讨论青少年如何支持老龄化社会和文化交流。</p>",
+            "sources": [
+              "AI"
+            ]
+          }
+        },
+        "new": {
+          "id": "b953c7d6-ee75-4833-945b-a04a7b689ed3",
+          "type": "infoNode",
+          "position": {
+            "x": -1047.242875946075,
+            "y": -428.5928759460745
+          },
+          "data": {
+            "id": "b953c7d6-ee75-4833-945b-a04a7b689ed3",
+            "tag": "活动",
+            "title": "活动四：关爱老人社区活动/主题班会（1课时+课外）",
+            "description": "<p>策划参与一次社区关爱老人活动（如慰问、才艺表演、健康讲座等）或举办以“外来食物与老年饮食”为主题的班会，分享调研心得，讨论青少年如何支持老龄化社会和文化交流。</p>",
+            "sources": [
+              "AI"
+            ]
+          }
+        }
+      },
+      "timestamp": "2025-08-22T12:17:04.065571"
+    }
+  ]
+}
