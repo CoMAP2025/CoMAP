@@ -15,7 +15,7 @@ Our contributions are available at: [https://comap2025.github.io/](https://comap
 
 ---
 
-![Teaser Figure](figure/teaser.png)
+![Teaser Figure](analysis/teaser.png)
 
 *This figure conceptually contrasts two distinct paradigms for human-AI collaboration. (a) Represents the traditional paradigm, where the design process relies on linear tools and isolated conversational AI. This approach fails to capture the nonlinear nature of creative design. (b) Shows the CoMAP paradigm, which utilizes a shared visual workspace as a persistent cognitive artifact. This allows for the externalization of non-linear thoughts, providing users with a distinct alternative for human-AI collaboration that addresses the limitations of the traditional paradigm.*
 
@@ -85,3 +85,4 @@ Our contributions are available at: [https://comap2025.github.io/](https://comap
 ---
 
 For questions or contributions, please open an issue or pull request.
+
