@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>教学卡片</title>
+    <style>
+        @font-face {
+            font-family: 'NotoSansSC';
+            src: url("./SourceHanSansCN-VF-2.otf");
+        }
+        @page {
+            size: A4;
+            margin: 1cm;
+        }
+        body {
+            font-family: 'NotoSansSC', "Helvetica Neue", Arial, sans-serif;
+            font-size: 10px;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* 使用表格作为布局容器 */
+        .card-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        /* 避免单元格内的内容分页 */
+        .card-wrapper {
+            page-break-inside: avoid;
+            padding: 0.5cm; /* 单元格内间距 */
+        }
+
+        .card {
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 10px;
+            height: 105mm; /* A7 纸的高度 */
+            width: 74mm;  /* A7 纸的宽度 */
+            display: block; /* 使用 block 布局 */
+            overflow: hidden;
+        }
+        .card-tag {
+            font-size: 10px;
+            font-weight: bold;
+            color: #555;
+            text-transform: uppercase;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 4px;
+            margin-bottom: 8px;
+            display: inline-block;
+        }
+        .card-title {
+            font-size: 14px;
+            font-weight: bold;
+            color: #333;
+            margin: 0 0 8px 0;
+        }
+        .card-description {
+            font-size: 12px;
+            color: #666;
+            line-height: 1.6;
+            margin: 0;
+            display: block;
+        }
+        .card-description p {
+            margin: 0;
+            font-size: 1em;
+        }
+    </style>
+</head>
+<body>
+
+    <table class="card-table">
+        {% for card in card_list %}
+            {% if loop.index0 % 2 == 0 %}
+                <tr>
+            {% endif %}
+            <td class="card-wrapper">
+                <div class="card">
+                    <div>
+                        <span class="card-tag">{{ card.tag }}</span>
+                        <h3 class="card-title">{{ card.title }}</h3>
+                    </div>
+                    <div class="card-description">{{ card.description | safe }}</div>
+                </div>
+            </td>
+            {% if loop.index0 % 2 == 1 or loop.last %}
+                </tr>
+            {% endif %}
+        {% endfor %}
+    </table>
+
+</body>
+</html>
