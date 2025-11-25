@@ -1,4 +1,4 @@
-# CoMAP: Collaborative Mapping for Project-Based Learning
+# Thinking in Graphs with CoMAP: A Shared Visual Workspace for Designing Project-Based Learning
 
 ## Overview
 
@@ -85,4 +85,5 @@ Our contributions are available at: [https://comap2025.github.io/](https://comap
 ---
 
 For questions or contributions, please open an issue or pull request.
+
 
