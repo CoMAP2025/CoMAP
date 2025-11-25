@@ -26,7 +26,7 @@ Our contributions are available at: [https://comap2025.github.io/](https://comap
 - `frontend/` — The web-based user interface (UI) for CoMAP.
 - `backend/` — The Python backend, including AI agents, API endpoints, and data management.
 - `dataset/` — Anonymized user operation and dialogue logs for research and analysis.
-- `analysis/` — Scripts and notebooks for visualizing and analyzing survey/scale data.
+- `analysis/` — Visualization of the survey/scale data.
 
 ---
 
@@ -85,5 +85,6 @@ Our contributions are available at: [https://comap2025.github.io/](https://comap
 ---
 
 For questions or contributions, please open an issue or pull request.
+
 
 
