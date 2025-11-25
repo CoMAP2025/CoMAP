@@ -70,7 +70,7 @@ Our contributions are available at: [https://comap2025.github.io/](https://comap
 
 ### Analysis
 
-- The `analysis/` folder includes scripts and notebooks for visualizing and analyzing survey/scale data collected during the study.
+- The `analysis/` folder includes the visualization of the survey/scale data collected during the study.
 
 ---
 
@@ -85,6 +85,7 @@ Our contributions are available at: [https://comap2025.github.io/](https://comap
 ---
 
 For questions or contributions, please open an issue or pull request.
+
 
 
 
