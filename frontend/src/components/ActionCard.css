@@ -1,0 +1,50 @@
+/* ActionCard.css */
+
+/* 定义液态玻璃效果的基底 */
+.action-card-glass {
+  /* 背景渐变，增加深度感 */
+  background: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.1),
+    rgba(255, 255, 255, 0.05)
+  );
+  /* 核心的模糊和饱和度滤镜 */
+  backdrop-filter: blur(15px) saturate(180%);
+  -webkit-backdrop-filter: blur(15px) saturate(180%); /* Safari 兼容性 */
+  border-radius: 20px; /* 更大的圆角 */
+  border: 1px solid rgba(255, 255, 255, 0.2); /* 细微的半透明边框 */
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.1); /* 更明显的柔和阴影 */
+  color: #333; /* 默认文字颜色 */
+  overflow: hidden; /* 确保内容不溢出圆角 */
+  position: relative; /* 为内部绝对定位元素做准备 */
+}
+
+/* 类别颜色映射 */
+/* 注意：这些颜色直接用在文本或图标上，所以是实色 */
+.tag-color-learner {
+  color: #1c7ed6;
+}
+.tag-color-strategy {
+  color: #37b24d;
+}
+.tag-color-activity {
+  color: #f59f00;
+}
+.tag-color-goal {
+  color: #7950f2;
+}
+.tag-color-resource {
+  color: #c62828;
+}
+.tag-color-rating {
+  color: #d679a7;
+}
+
+/* 接受按钮点击后的样式 */
+.accept-button-accepted {
+  background-color: #4caf50 !important; /* 更深的绿色 */
+  color: #fff !important; /* 白色文字 */
+  border: 1px solid #388e3c !important; /* 深绿色边框 */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2) inset !important; /* 内阴影效果 */
+  opacity: 0.8; /* 稍微降低透明度，营造点击感 */
+}

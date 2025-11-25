@@ -1,0 +1,16 @@
+.MuiTabs-vertical{
+    display: absolute;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    max-width: fit-content;
+    /* height:100vh; */
+    /* background-color: #eeeeeeaa; */
+    border-right: #eeeeeeaa solid 1px;
+}
+.MuiTabs-root{
+    height: 100%;
+}
+.css-12t6o4w-MuiTabs-root{
+    height: 100%;
+}
